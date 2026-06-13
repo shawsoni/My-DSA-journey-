@@ -1,2 +1,2 @@
 # My-DSA-journey-
-my DSA journey 
+this is my repository 
